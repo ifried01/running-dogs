@@ -1,0 +1,33 @@
+body{
+    background-image:url('assets/omfgdogs.gif');
+}
+
+ul.navbar {
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 19px;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: fixed;
+  bottom: 1pt;
+  right: 1pt;
+  top: 2em;
+  left: 1em;
+  width: 8em }
+h1 {
+  font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif }
+ul.navbar li {
+  background: #33CCFF;
+  position: fixed;
+  bottom: 1pt;
+  right: 1pt;  
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-left: 0em solid #33ccff }
+ul.navbar a {
+  text-decoration: none }
+a:link {
+  color: green }
+a:visited {
+  color: green }
